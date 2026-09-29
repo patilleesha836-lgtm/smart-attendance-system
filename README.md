@@ -1,36 +1,48 @@
-# Attendance OS — Student Attendance System
+# 📚 Smart Attendance System
 
-A single-page React + Vite app for tracking student attendance, styled with a
-dark glassmorphism UI (cyan / indigo neon accents). Data is persisted to
-`localStorage`, so no backend is required.
+A web-based Smart Attendance System developed as a Web Development project.  
+The system helps manage student attendance in a simple and organized way.
 
-## Features
-- **Dashboard** — today's stats, overall attendance rate, recent days
-- **Students** — add/remove students (name, roll number, class)
-- **Mark Attendance** — pick a date, mark each student Present / Late / Absent, "All Present" shortcut
-- **Reports** — per-student attendance %, CSV export
+## 🎯 Objectives
 
-## Setup (VS Code)
+- Reduce manual attendance work
+- Maintain student attendance records
+- Make attendance management easier
+- Reduce errors in attendance records
+- Provide a simple and user-friendly interface
 
-1. Unzip this folder and open it in VS Code.
-2. Open a terminal in the project root and run:
+## ✨ Features
 
-   ```bash
-   npm install
-   npm run dev
-   ```
+- 🔐 Login
+- 👨‍🎓 Student Registration
+- 📋 Manage Students
+- 📊 Attendance Dashboard
+- 📝 Attendance Records
+- 🔎 Search Students
+- ✏️ Edit Student Details
+- 🗑️ Delete Student Details
+- 📱 Responsive Interface
 
-3. Open the local URL Vite prints (usually `http://localhost:5173`).
+## 🛠️ Technologies Used
 
-## Build for production
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Vite
 
-```bash
-npm run build
-npm run preview
-```
+## 📂 Project Structure
 
-## Notes
-- Data lives in your browser's `localStorage` under `attos_students` and
-  `attos_attendance` — clearing site data will reset it.
-- A few sample students are seeded on first run; delete them from the
-  Students tab if you don't need them.
+```text
+smart-attendance-system/
+│
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
