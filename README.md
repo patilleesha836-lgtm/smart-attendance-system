@@ -1,4 +1,9 @@
 # 📚 Smart Attendance System
+## 🚀 Live Demo
+
+## 🚀 Live Demo
+
+[View Live Project]((https://smart-attendance-system-1cuv6ksak-patilleesha836-lgtm.vercel.app/))
 
 A web-based Smart Attendance System developed as a Web Development project.  
 The system helps manage student attendance in a simple and organized way.
