@@ -1,5 +1,5 @@
 # 📚 Smart Attendance System
-## 🚀 Live Demo
+
 
 ## 🚀 Live Demo
 
